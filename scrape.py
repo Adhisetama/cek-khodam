@@ -1,3 +1,6 @@
+# Author: martabakmenari
+# NOTE: Install webdriver untuk chrome, taruh .exe nya di directory ini
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
